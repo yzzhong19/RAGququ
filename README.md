@@ -8,6 +8,8 @@ RAG with langchain, ollama based on QuQu's class audio transcript.
 ## Run
 run `python3 rag.py'
 
-Result:
+# Result:
+### RAG result
 ![RAG result](images/rag.png)
+### Ollama result
 ![Ollama no RAG result](images/ollama.png)
