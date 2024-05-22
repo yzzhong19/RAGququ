@@ -64,4 +64,4 @@ while True:
 
     response = rag_chain.invoke({"input": query})
     print(response["answer"])
-    print(response['context'])
+    #print(response['context'])
